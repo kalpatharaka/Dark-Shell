@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__/
+*.pyc
+cloned_web/
